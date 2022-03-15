@@ -22,8 +22,9 @@
 
 <div>
   <a href="https://github.com/rafaballerini2">
-    <img height="230cm" src="https://github-readme-stats.vercel.app/api?username=MattLPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="230cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLPires&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="270cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLPires&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=MattLPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
     </div>
   
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mattt_tea/)

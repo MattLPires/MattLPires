@@ -1,7 +1,7 @@
 # Hi! I'm Matheus! 
 [<img  src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mattt_tea/)
 [<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-pires-b90247149/)
-## 23 years old - Fullstack ReactJS/Node and Developer C/C++.
+## 25 years old - Fullstack ReactJS/Node and Developer C/C++.
 
 - 🤖 currently working with support and development with POS/mPOS, using C/C++ and Java.
 - 📚 Currently studying typescript.

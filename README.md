@@ -1,9 +1,11 @@
 # Olá! 
 
 
-##  Tenho 25 anos e atuo na área desde meus 18 anos.
+
+Tenho 25 anos e atuo na área desde meus 18 anos.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, com noções de Infraestrutura, IoT e Telecomunicações.  
+
 Pós-graduado no curso de Especialização em Engenharia de Software pela PUC Minas.  
 Experiente em implantação de projetos e gerenciamento/análise dos mesmos, recursos, sustentação e suporte.  
 Habilidades com relação a atuação com as linguagens C/C++, C#, VB, Javascript, Typescript, Java e Python, e também com framework .NET e spring, e banco de dados relacionais e não relacionais, como SQL, MongoDB, MariaDB, PostgreSQL e Cassandra.  

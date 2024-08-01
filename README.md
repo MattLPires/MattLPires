@@ -15,6 +15,7 @@ Experiente em manipulação e consumo de filas com RabbitMQ e IBMMQ.
 Conhecimento em AWS Lambda, consumo e manipulação de dados salvos em buckets no S3 e Dynamo.  
 
 Para mais informações/contato, abaixo está o meu linkedin!  
+
 [<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-pires-b90247149/)
 
 <!---

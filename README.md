@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou um Engenheiro de Software
+# 👋 Olá!
 
 <div align="center">
   

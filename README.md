@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 Sobre
 
 > **Transformo ideias em soluções tecnológicas robustas e escaláveis**
 
@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por criar sistemas que fazem a diferença! Com *
 
 ---
 
-## 🎯 Minhas Especialidades
+## 🎯 Especialidades
 
 ### 💻 **Desenvolvimento Backend**
 Criação de arquiteturas escaláveis e APIs que aguentam o tranco
@@ -97,7 +97,3 @@ Estou sempre em busca de **novos desafios** que me permitam aplicar tecnologia p
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>

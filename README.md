@@ -1,99 +1,47 @@
-# 👋 Olá!
+# Matheus Pires
 
-<div align="center">
-  
-[![Backend Development](https://img.shields.io/badge/Backend-Expert-blue?style=for-the-badge&logo=server&logoColor=white)](https://github.com)
-[![Infrastructure](https://img.shields.io/badge/Infrastructure-Specialist-green?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com)
-[![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-orange?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com)
+Engenheiro de Software · Fullstack e sistemas embarcados · São Paulo, Brasil
 
-</div>
+Trabalho há mais de 8 anos com sistemas financeiros e de meios de pagamento. Hoje atuo no BTG Pactual com mensageria, sistemas legados e plataformas de relatórios. Antes disso, passei três anos desenvolvendo software embarcado em C/C++ para terminais de pagamento Linux.
 
-## 🚀 Sobre
+Gosto de problemas em que confiabilidade importa: filas que não podem perder mensagem, cálculos que precisam bater com o centavo e fluxos que passam por homologação.
 
-> **Transformo ideias em soluções tecnológicas robustas e escaláveis**
+## Atuação atual
 
-Sou um desenvolvedor apaixonado por criar sistemas que fazem a diferença! Com **mais de 7 anos** mergulhado no mundo da tecnologia, atuo como a ponte perfeita entre as necessidades do negócio e implementações técnicas que realmente funcionam.
+**Sênior de TI no BTG Pactual (via Beyond), desde 05/2024**
 
-### 🎓 Formação
-- **Graduação:** Análise e Desenvolvimento de Sistemas - FATEC
-- **Pós-Graduação:** Especialização em Engenharia de Software - PUC Minas
+- Mensageria e sistemas orientados a eventos com RabbitMQ, IBM MQ e Amazon SQS
+- Evolução e sustentação de sistema legado (SQL Server, VB6, .NET) e projeto de billing
+- Plataforma de relatórios de performance: lambdas e endpoints em Python, front em Vue, Quasar e TypeScript
 
----
+## Projetos que mais me orgulho
 
-## 🎯 Especialidades
+- **Roteamento dinâmico de filas IBM MQ (C#/.NET):** troca de Queue Managers em tempo de execução, respeitando a ordem de execução de tasks e threads sobre o QM em uso.
+- **Motor de cálculo de performance de carteira (Python, GraphQL, AWS Lambda):** cálculo de performance de carteiras e ativos de clientes, com monitoramento via Datadog.
+- **SSR para relatórios (TypeScript):** engine própria de renderização server-side com escape de HTML, sem framework.
+- **Monitor de filas RabbitMQ (Python, pika):** coleta e persiste mensagens em SQL para análise quantitativa, usado em migrações e descomissionamento de filas.
+- **Injeção de chaves criptográficas em terminais de pagamento (C/C++14, OpenSSL):** novo fluxo fabril que eliminou a necessidade de revalidação na linha de produção.
+- **App de pagamento para testes de telecom (C, LVGL, curl, OpenSSL):** aplicação para terminais Linux aderente às normas ABECS, usada em testes assistidos de laboratório.
 
-### 💻 **Desenvolvimento Backend**
-Criação de arquiteturas escaláveis e APIs que aguentam o tranco
+## Stack
 
-### 📊 **Gestão de Projetos** 
-Da primeira linha de código até a entrega final - com foco em sustentação e otimização
+| | |
+|---|---|
+| **Linguagens** | C, C++, C#, Java, Python, TypeScript, JavaScript |
+| **Back-end** | .NET, Spring, Node.js, GraphQL |
+| **Front-end** | Vue, Nuxt, Quasar, React, Angular |
+| **Mensageria** | RabbitMQ, IBM MQ, Amazon SQS, Kafka |
+| **Cloud** | AWS (Lambda, S3, Athena, CloudWatch, AppSync, DynamoDB, ECS, Cognito, CloudFormation) |
+| **Dados** | SQL Server, PostgreSQL, MongoDB, DynamoDB, Redis, Cassandra |
+| **CI/CD e observabilidade** | Azure Pipelines, Jenkins, Datadog, Splunk |
+| **Embarcado** | Linux, C/C++, comandos AT, OpenSSL, LVGL |
 
-### ☁️ **Infraestrutura**
-Automação inteligente, CI/CD fluido e cloud computing de ponta
+## Formação
 
----
+- Pós-graduação em Engenharia de Software, PUC Minas (2024)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, FATEC Carapicuíba (2022)
+- Técnico em Redes de Computadores, ETEC de Cotia (2017)
 
-## 🛠️ Arsenal Tecnológico
+## Contato
 
-### **Linguagens de Programação**
-```
-C/C++ • C# • Java • Python • JavaScript • TypeScript
-```
-
-### **Frameworks & Libraries**
-```
-.NET • Spring Boot • Vue.js • React
-```
-
-### **Bancos de Dados**
-```
-PostgreSQL • MongoDB • Redis • Cassandra
-```
-
-### **Cloud & DevOps**
-```
-AWS (Lambda, S3, DynamoDB, CloudWatch) • Azure Pipelines • Jenkins
-```
-
-### **Mensageria**
-```
-RabbitMQ • IBM MQ • Amazon SQS
-```
-
-### **Automação**
-```
-Shell Script • Python • Perl
-```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattLPires&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLPires&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🌟 O Que Me Move
-
-Estou sempre em busca de **novos desafios** que me permitam aplicar tecnologia para gerar **valor real ao negócio**. Acredito que a melhor solução é aquela que não apenas funciona, mas que também faz sentido para quem usa.
-
----
-
-<div align="center">
-
-### 🤝 Vamos Conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-pires-b90247149/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.h98@hotmail.com.br)
-
-**💡 Sempre aberto para conversar sobre tecnologia, projetos interessantes e oportunidades de colaboração!**
-
-</div>
-
----
+[LinkedIn](https://www.linkedin.com/in/matheus-pires-b90247149/) · [Portfólio](https://piresdev.vercel.app/) · [matheus.h98@hotmail.com.br](mailto:matheus.h98@hotmail.com.br)
